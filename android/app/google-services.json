@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131702600145",
+    "project_id": "student-register-1c21d",
+    "storage_bucket": "student-register-1c21d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131702600145:android:f9363e11f3c40c3295f0f0",
+        "android_client_info": {
+          "package_name": "com.studentRegister.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtTrx3r_En1Zpgp102VhXIa1mt0HUpx0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
