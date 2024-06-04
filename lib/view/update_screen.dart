@@ -12,7 +12,7 @@ class UpdateScreen extends StatelessWidget {
     final provider = Provider.of<FunctionsController>(context);
     return Scaffold(
       appBar: AppBar(
-        title: Text('Update'),
+        title: const Text('Update'),
       ),
       body: Center(
         child: Column(
